@@ -1,1 +1,1 @@
-export default () => <div>hello from index.js</div>
+export default () => <div>hello from index.js!</div>
