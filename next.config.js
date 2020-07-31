@@ -3,4 +3,5 @@ module.exports = {
     NEXT_PUBLIC_COMMIT_REF: process.env.VERCEL_GITHUB_COMMIT_REF,
     COMMIT_REF: process.env.VERCEL_GITHUB_COMMIT_REF,
   },
+  trailingSlash: true,
 }
